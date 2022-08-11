@@ -1,7 +1,5 @@
 # Credit-Risk-Classification-Ensembling
 
-Challenge / Project from Fintech Bootcamp for Machine Learning / Classification Week
-
 
 ## Notebooks:
 
